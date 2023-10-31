@@ -1,0 +1,19 @@
+.image{
+    border-top-right-radius:60% ;
+    
+}
+.footcontent{
+    border: 3px solid orange;
+    background-color: rgb(67, 126, 67);
+    color: white;
+}
+
+.contain{
+    color: rgb(231, 77, 21);
+}
+h4{
+    color: white;
+}
+body{
+    background-color: black;
+}
